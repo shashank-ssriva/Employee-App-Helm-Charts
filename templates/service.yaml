@@ -10,4 +10,4 @@ spec:
       targetPort: 8080
       protocol: TCP
   selector:
-    name: employee-app
+    app: employee-app
